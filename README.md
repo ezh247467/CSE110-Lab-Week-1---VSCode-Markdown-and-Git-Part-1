@@ -1,2 +1,2 @@
-# CSE110-Lab-Week-1---VSCode-Markdown-and-Git-Part-1
+# Ethan's User Page
 Lab1 for CSE110

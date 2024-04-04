@@ -112,7 +112,7 @@ As I've stated before, I love learning about the different commands that can be 
      - ```git reset``` - There have been many times that I committed something that I probably shouldn't have. Reseting the HEAD pointer has been a gamechanger for me!
      - ```git restore``` - Just like with above, there are times that I staged files that I didn't mean to stage (sometimes I just get lazy and just do ```git add .``` without checking status) so thank goodness I can unstage files!
 
-- [x] [README file](README.md)
-- [ ] Section Links
-- [ ] https://github.com/ezh247467/CSE110-Lab-Week-1---VSCode-Markdown-and-Git-Part-1
+- [x]  Finish [README file](README.md)
+- [ ]  Add Section Links
+- [ ]  Finish https://github.com/ezh247467/CSE110-Lab-Week-1---VSCode-Markdown-and-Git-Part-1
 

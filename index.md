@@ -1,6 +1,6 @@
 # Ethan's User Page
 ## Introduction
-Hello, my name is Ethan Huang and I am a third-year Computer Science student. I enjoy learning about *software tools* like **Git** and **bash**, specifically the numerous commands I can use for them. I also like to look at different coding algorithms and try to code them out myself. For algorithms that are bit too hard for me to implement reliably, I like to just read the working code of them on the internet and see how well I can trace the code.
+Hello, my name is Ethan Huang and I am a third-year Computer Science student. I enjoy learning about [software tools](https://ezh247467.github.io/CSE110-Lab-Week-1---VSCode-Markdown-and-Git-Part-1/#favorite-commands) like **Git** and **bash**, specifically the numerous commands I can use for them. I also like to look at different coding algorithms and try to code them out myself. For algorithms that are bit too hard for me to implement reliably, I like to just read the working code of them on the internet and see how well I can trace the code.
 
 One of my absolute favorite things to eat are the Habanero wings from Dirty Birds with extra sauce.
 ![My favorite food](./images/habanero-hot-wings.jpg)
@@ -112,7 +112,8 @@ As I've stated before, I love learning about the different commands that can be 
      - ```git reset``` - There have been many times that I committed something that I probably shouldn't have. Reseting the HEAD pointer has been a gamechanger for me!
      - ```git restore``` - Just like with above, there are times that I staged files that I didn't mean to stage (sometimes I just get lazy and just do ```git add .``` without checking status) so thank goodness I can unstage files!
 
+
 - [x]  Finish [README file](README.md)
-- [ ]  Add Section Links
-- [ ]  Finish https://github.com/ezh247467/CSE110-Lab-Week-1---VSCode-Markdown-and-Git-Part-1
+- [x]  Add Section Links
+- [x]  Finished Lab 1
 

@@ -9,8 +9,10 @@ I don't have an image of them myself so this is the best thing I can find from t
 ## Favorite Quote
 Alan Turing a person that I look up to and as someone who expresses immense interest in AI and loves the idea of the Turing Test, my favorite quote from him has to be:
 > A computer would deserve to be called intelligent if it could deceive a human into beliving it is a human.
+
 ## Favorite Sorting Algorithm: MergeSort
 This is my own implementation of MergeSort from what I can remember (CSE12 was so long ago for me!) in C++ *(my friend Joshua created the test cases)*.
+
 ```
 #include <iostream>
 #include <vector>
@@ -94,6 +96,7 @@ int main() {
 	return 0;
 }
 ```
+
 ## Favorite Commands
 As I've stated before, I love learning about the different commands that can be used on the command line/terminal as well as other software tools I've learned from my experience at UCSD ***(thank you CSE15L!)***. The commands I will be listing will be separated by software tool
 1. **Bash/Command Line**

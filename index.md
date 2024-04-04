@@ -4,6 +4,7 @@ Hello, my name is Ethan Huang and I am a third-year Computer Science student. I 
 
 One of my absolute favorite things to eat are the Habanero wings from Dirty Birds with extra sauce.
 ![My favorite food](./images/habanero-hot-wings.jpg)
+
 I don't have an image of them myself so this is the best thing I can find from the internet :(
 ## Favorite Quote
 Alan Turing a person that I look up to and as someone who expresses immense interest in AI and loves the idea of the Turing Test, my favorite quote from him has to be:
